@@ -35,6 +35,7 @@ The final project of SUSTech CS102A
 3. 解读ChessDemo
 
   下载链接 https://send.cra.moe/file/VBtIJqSMVgvtjFsz/NS72vNKqIuuXQYHv/ChessDemoSummarize.xmind
+  PDF: https://send.cra.moe/file/Rb5Rfu7BWEEEwQZh/oduPTYd116JrPwVS/ChessDemo.pdf
   
   不从Swing视角解读ChessDemo
   
@@ -42,6 +43,7 @@ The final project of SUSTech CS102A
 4. 任务清单
   
   下载链接 https://send.cra.moe/file/qQy3S49uzsxF7ozV/6rxrIqARFsjrVvXU/MissionsNew.xmind
+  PDF: https://send.cra.moe/file/Rb5Rfu7BWEEEwQZh/qJXu7lUPMuf35BHq/Missions.pdf
   
   有机会争取部分标识了分数百分比
   下周末（5月21日）核对工作进度
