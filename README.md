@@ -76,3 +76,7 @@ The final project of SUSTech CS102A
   GUI: https://send.cra.moe/file/Y8e9L25NQYYBynWP/E4oUBMQorfcS2y36/GUI.mkv
   
   Project 介绍: https://send.cra.moe/file/Y8e9L25NQYYBynWP/YGx3pLBORywexBYd/Project.mkv
+  
+  
+# Essay
+https://send.cra.moe/file/9aBJSjKtCd6UadQ7/w3FNN9t5Q6xPDtYM/%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE.zip
