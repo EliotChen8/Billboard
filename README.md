@@ -84,3 +84,6 @@ https://send.cra.moe/file/9aBJSjKtCd6UadQ7/w3FNN9t5Q6xPDtYM/%E7%A0%94%E7%A9%B6%E
 ## Communication Principles
 https://send.cra.moe/file/nkfvyybmW0N4yiVF/o2t1dSHJbtNPLrD6/Pan%20Xinyi%20(SubVI).vi
 https://send.cra.moe/file/nkfvyybmW0N4yiVF/Fxgip6e7m4ORaVgW/DSB%20Modulation%20Demo%20(Baseband-Sine)%20-Template.vi
+
+## AI Psy Pre
+https://send.cra.moe/file/bnPUbyAuw52kE36q/7ZZCn2h1EFrxbwCq/AI&Psy.pptx
