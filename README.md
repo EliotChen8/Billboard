@@ -1,9 +1,11 @@
 # Billboard
 欢迎，这里是EliotChen8的公告板！
 
+## 2021大创 20230424实验资料
+仓库的 2021大创 文件夹中是4月24日实验的所有内容。
+
 ## Project_Chess
 The final project of SUSTech CS102A
-
 
 这里是本次Project的README文件 可以把关于这个项目的一些资源记录在这里 可以写中文 我打算把它当成一个公告板来用
 
