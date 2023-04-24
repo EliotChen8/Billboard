@@ -1,13 +1,13 @@
 # Billboard
 欢迎，这里是EliotChen8的公告板！
 
-## 2023 SP
+## 2023_SP
 
 ### 2021大创
 
 #### 4月24日实验
 
-仓库的 2023SP/2021大创 文件夹中是4月24日实验的所有资源。
+仓库的 2023_SP/2021大创 文件夹中是4月24日实验的所有资源。
 
 **针对报告，请注意：**
 
@@ -35,7 +35,7 @@ https://send.cra.moe/file/bnPUbyAuw52kE36q/7ZZCn2h1EFrxbwCq/AI&Psy.pptx
 
 
 
-## 2022 SP
+## 2022_SP
 
 ### CS102A
 
