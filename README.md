@@ -1,6 +1,10 @@
 # Billboard
 欢迎，这里是EliotChen8的公告板！
 
+## 2023_FA
+
+https://md.cra.moe/juK9ewAaQGS-oKHSNm7mYw
+
 ## 2023_SP
 
 ### 2021大创
